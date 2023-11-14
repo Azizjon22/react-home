@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react%20upload/static/css/main.616bc88f.css",
+    "main.js": "/react%20upload/static/js/main.d3a18fd6.js",
+    "static/media/spani.png": "/react%20upload/static/media/spani.b0283678188bcca350c8.png",
+    "static/media/bggg.png": "/react%20upload/static/media/bggg.f5dd2316b836ad83584e.png",
+    "static/media/lemon.png": "/react%20upload/static/media/lemon.001a5844f1d47307b834.png",
+    "static/media/spani2.png": "/react%20upload/static/media/spani2.61040e8ad428a3415b8e.png",
+    "static/media/savat.png": "/react%20upload/static/media/savat.4b45aaf3809cedd31c85.png",
+    "static/media/sochiq.png": "/react%20upload/static/media/sochiq.943ae43217a49f6f7c42.png",
+    "static/media/sunduk.png": "/react%20upload/static/media/sunduk.b7710f8cd131969af775.png",
+    "static/media/sunduk2.png": "/react%20upload/static/media/sunduk2.94da35785f5e62bfbcee.png",
+    "static/media/talin.png": "/react%20upload/static/media/talin.c64eeb4cb7221be22e84.png",
+    "static/media/slick.svg": "/react%20upload/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react%20upload/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react%20upload/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react%20upload/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react%20upload/index.html",
+    "main.616bc88f.css.map": "/react%20upload/static/css/main.616bc88f.css.map",
+    "main.d3a18fd6.js.map": "/react%20upload/static/js/main.d3a18fd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616bc88f.css",
+    "static/js/main.d3a18fd6.js"
+  ]
+}
